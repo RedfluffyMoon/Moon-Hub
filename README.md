@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/github/issues/RedfluffyMoon/Moon-Hub?style=for-the-badge" alt="Open Issues" />
   <img src="https://img.shields.io/github/license/RedfluffyMoon/Moon-Hub?style=for-the-badge" alt="License" />
   <img src="https://img.shields.io/github/last-commit/RedfluffyMoon/Moon-Hub?style=for-the-badge" alt="Last Commit" />
+  <a href="https://t.me/moonhubhunapps"><img src="https://img.shields.io/badge/Telegram-Moon%20Hub-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 </p>
 
 <p align="center">
